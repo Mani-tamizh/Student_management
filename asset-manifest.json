@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mani-tamizh/Student-management.git/static/css/main.f7c25649.css",
+    "main.js": "/Mani-tamizh/Student-management.git/static/js/main.57db6a25.js",
+    "static/js/453.b117aab0.chunk.js": "/Mani-tamizh/Student-management.git/static/js/453.b117aab0.chunk.js",
+    "index.html": "/Mani-tamizh/Student-management.git/index.html",
+    "main.f7c25649.css.map": "/Mani-tamizh/Student-management.git/static/css/main.f7c25649.css.map",
+    "main.57db6a25.js.map": "/Mani-tamizh/Student-management.git/static/js/main.57db6a25.js.map",
+    "453.b117aab0.chunk.js.map": "/Mani-tamizh/Student-management.git/static/js/453.b117aab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c25649.css",
+    "static/js/main.57db6a25.js"
+  ]
+}
